@@ -1,1 +1,1 @@
-# PRODIGY-INFOTECH-DS-TASK01
+I’m thrilled to announce that I’ve successfully completed Task 1 of my Data Science internship at Prodigy Infotech! 🌟
